@@ -1,4 +1,4 @@
-# SwiftCart 🛒
+# NexusMart 🛒
 
 A MERN Stack E-Commerce app with:
 
